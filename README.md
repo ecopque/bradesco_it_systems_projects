@@ -10,3 +10,5 @@ Um projeto de sistema bem-feito assegura que a solução que será produzida ate
 Neste curso, você aprenderá diferentes metodologias por meio das quais é possível projetar sistemas complexos e, também, obterá conhecimentos sobre itens fundamentais para projetar sistemas de TI, tais como o levantamento de requisitos e a construção de diagramas de fluxo de dados (DFD).
 
 O curso oferece, ainda, estudos de casos reais de desenvolvimento de sistemas de TI, para que você possa visualizar como aplicar as metodologias apresentadas na prática.
+
+https://linktr.ee/edsoncopque
